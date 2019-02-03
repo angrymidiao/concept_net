@@ -1,6 +1,6 @@
 # E-commerce Concept Net in Taobao
 
-In "concepts_preview.txt", we provide a preview of concepts in our concept net. 
+In "concept_preview.txt", we provide a preview of concepts in our concept net. 
 
 The file is in Chinese with a format as follows:
 
