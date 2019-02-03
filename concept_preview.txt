@@ -1,4 +1,4 @@
-concept	schema	description
+concept	schema	expression
 一年级开学必备	人生阶段:小学	对象:一年级学生|事件:开学
 七夕饰品		时间:七夕|品类:饰品
 三亚旅游		空间:三亚|事件:旅游
