@@ -1,4 +1,4 @@
-# E-commerce Concept Net in Taobao
+# E-commerce Concept Net in Alibaba
 
 In "concept_preview.txt", we provide a preview of concepts in our concept net. 
 
