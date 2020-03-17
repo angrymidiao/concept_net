@@ -1,5 +1,7 @@
 # E-commerce Concept Net in Alibaba
 
+**Check the repo of our concept net: https://github.com/angrymidiao/AliCoCo**
+
 In "concept_preview.txt", we provide a preview of concepts in our concept net. 
 
 The file is in Chinese with a format as follows:
