@@ -1,6 +1,6 @@
 # E-commerce Concept Net in Alibaba
 
-**Check the repo of our concept net: https://github.com/angrymidiao/AliCoCo**
+**Check the repo of our concept net: https://github.com/alicogintel/AliCoCo**
 
 In "concept_preview.txt", we provide a preview of concepts in our concept net. 
 
